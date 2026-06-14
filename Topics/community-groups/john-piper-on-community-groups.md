@@ -2,6 +2,8 @@
 
 A brief research summary of how John Piper taught and championed small groups during his ministry at Bethlehem Baptist Church (Minneapolis). For sermon preparation—not a transcript or quote collection.
 
+*See also: [Mark Dever on Community Groups](mark-dever-on-community-groups.md).*
+
 ---
 
 ## Why Piper Preached About Small Groups

@@ -61,6 +61,7 @@ Topics/
   community-groups/
     community-groups-passages.md
     john-piper-on-community-groups.md
+    mark-dever-on-community-groups.md
 ```
 
 Each passage file typically includes:

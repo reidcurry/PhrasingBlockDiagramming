@@ -2,6 +2,8 @@
 
 Quick-review document for expository preaching on **Community Groups**. Individual passage files live under `phrasing/{book}/`. This file collects every whole-passage phrasing in one place.
 
+Sermon-prep summaries: [John Piper](john-piper-on-community-groups.md) · [Mark Dever](mark-dever-on-community-groups.md)
+
 | # | Passage | Sermon angle | File |
 |---|---------|--------------|------|
 | 1 | Acts 2:42–47 | The prototype community: word, fellowship, table, prayer | [acts/2-42-47-esv.md](../../phrasing/acts/2-42-47-esv.md) |
@@ -30,6 +32,16 @@ Quick-review document for expository preaching on **Community Groups**. Individu
 | 24 | 1 Corinthians 12:21–31 | No dispensable member; desire higher gifts (Piper) | [1-corinthians/12-21-31-esv.md](../../phrasing/1-corinthians/12-21-31-esv.md) |
 | 25 | 1 Corinthians 13:1–13 | Love: the more excellent way than gifts (Piper) | [1-corinthians/13-1-13-esv.md](../../phrasing/1-corinthians/13-1-13-esv.md) |
 | 26 | 1 Corinthians 14:1–25 | Pursue love; prophecy edifies the gathered church (Piper) | [1-corinthians/14-1-25-esv.md](../../phrasing/1-corinthians/14-1-25-esv.md) |
+| 27 | Hebrews 13:17 | Obey leaders who watch souls and give account (Dever) | [hebrews/13-17-esv.md](../../phrasing/hebrews/13-17-esv.md) |
+| 28 | 1 Corinthians 5:9–13 | Judge those inside; purge evil from the church (Dever) | [1-corinthians/5-9-13-esv.md](../../phrasing/1-corinthians/5-9-13-esv.md) |
+| 29 | Acts 20:28–31 | Elders watch the flock Christ bought with his blood (Dever) | [acts/20-28-31-esv.md](../../phrasing/acts/20-28-31-esv.md) |
+| 30 | Matthew 28:18–20 | Great Commission: baptize and teach obedience (Dever) | [matthew/28-18-20-esv.md](../../phrasing/matthew/28-18-20-esv.md) |
+| 31 | Titus 2:1–8 | Cross-generational discipling in sound doctrine (Dever) | [titus/2-1-8-esv.md](../../phrasing/titus/2-1-8-esv.md) |
+| 32 | Ephesians 4:1–3 | Maintain unity of the Spirit in humility (Dever) | [ephesians/4-1-3-esv.md](../../phrasing/ephesians/4-1-3-esv.md) |
+| 33 | 1 John 3:16–18 | Love in deed, not word alone (Dever) | [1-john/3-16-18-esv.md](../../phrasing/1-john/3-16-18-esv.md) |
+| 34 | Galatians 3:28 | One in Christ across natural divisions (Dever) | [galatians/3-28-esv.md](../../phrasing/galatians/3-28-esv.md) |
+| 35 | Galatians 6:10 | Do good to all, especially the household of faith (Dever) | [galatians/6-10-esv.md](../../phrasing/galatians/6-10-esv.md) |
+| 36 | 1 Peter 5:1–5 | Shepherd willingly; humble submission (Dever) | [1-peter/5-1-5-esv.md](../../phrasing/1-peter/5-1-5-esv.md) |
 
 ---
 
@@ -853,4 +865,217 @@ Quick-review document for expository preaching on **Community Groups**. Individu
         and so, falling on his face,
         he will worship God
             and declare that God is really among you.
+```
+
+---
+
+## 27. Hebrews 13:17
+
+**Sermon angle:** Dever's membership text — members submit to leaders who watch over souls and give account to God.
+
+```
+[17] Obey your leaders
+        and submit to them,
+    for they are keeping watch over your souls,
+        as those who will have to give an account.
+    Let them do this with joy
+        and not with groaning,
+    for that would be of no advantage to you.
+```
+
+---
+
+## 28. 1 Corinthians 5:9–13
+
+**Sermon angle:** Dever's membership-boundary text — the church judges those inside; identifiable membership is implied.
+
+```
+[9] I wrote to you in my letter
+        not to associate with sexually immoral people—
+[10] not at all meaning the sexually immoral of this world,
+        or the greedy and swindlers,
+        or idolaters,
+    since then you would need to go out of the world.
+[11] But now I am writing to you
+        not to associate with anyone who bears the name of brother
+            if he is guilty of sexual immorality or greed,
+            or is an idolater, reviler, drunkard, or swindler—
+        not even to eat with such a one.
+[12] For what have I to do with judging outsiders?
+    Is it not those inside the church
+        whom you are to judge?
+[13] God judges those outside.
+    "Purge the evil person from among you."
+```
+
+---
+
+## 29. Acts 20:28–31
+
+**Sermon angle:** Dever's pastoral-care text — elders watch the flock because Christ bought the church with his blood.
+
+```
+[28] Pay careful attention to yourselves
+        and to all the flock,
+    in which the Holy Spirit has made you overseers,
+        to care for the church of God,
+            which he obtained with his own blood.
+[29] I know that after my departure fierce wolves will come in among you,
+        not sparing the flock;
+[30] and from among your own selves will arise men speaking twisted things,
+        to draw away the disciples after them.
+[31] Therefore be alert,
+    remembering that for three years
+        I did not cease night or day
+            to admonish every one with tears.
+```
+
+---
+
+## 30. Matthew 28:18–20
+
+**Sermon angle:** Dever's discipling charter — every Christian helps others follow Jesus through baptism and teaching.
+
+```
+[18] And Jesus came and said to them,
+        "All authority in heaven and on earth has been given to me.
+[19] Go therefore
+        and make disciples of all nations,
+        baptizing them
+            in the name of the Father
+                and of the Son
+                and of the Holy Spirit,
+[20] teaching them to observe all that I have commanded you.
+    And behold, I am with you always,
+        to the end of the age."
+```
+
+---
+
+## 31. Titus 2:1–8
+
+**Sermon angle:** Dever's pattern for discipling — older saints train younger saints in sound doctrine across generations.
+
+```
+[1] But as for you,
+    teach what accords with sound doctrine.
+[2] Older men are to be sober-minded,
+        dignified,
+        self-controlled,
+        sound in faith,
+            in love,
+            and in steadfastness.
+[3] Older women likewise are to be reverent in behavior,
+        not slanderers
+            or slaves to much wine.
+    They are to teach what is good,
+[4]     and so train the young women
+            to love their husbands and children,
+[5]         to be self-controlled,
+            pure,
+            working at home,
+            kind,
+            and submissive to their own husbands,
+        that the word of God may not be reviled.
+[6] Likewise,
+    urge the younger men to be self-controlled.
+[7] Show yourself in all respects to be a model of good works,
+        and in your teaching show integrity,
+            dignity,
+[8]             and sound speech that cannot be condemned,
+    so that an opponent may be put to shame,
+        having nothing evil to say about us.
+```
+
+---
+
+## 32. Ephesians 4:1–3
+
+**Sermon angle:** Dever's unity text — community groups must serve church-wide unity, not fragment the body.
+
+```
+[1] I therefore, a prisoner for the Lord,
+    urge you to walk
+        in a manner worthy of the calling to which you have been called,
+[2] with all humility and gentleness,
+        with patience,
+        bearing with one another in love,
+[3] eager to maintain the unity of the Spirit
+        in the bond of peace.
+```
+
+---
+
+## 33. 1 John 3:16–18
+
+**Sermon angle:** Dever/Dunlop's love-in-action text — compelling community shows Christ's love in costly, practical care.
+
+```
+[16] By this we know love,
+        that he laid down his life for us,
+    and we ought to lay down our lives
+        for the brothers.
+[17] But if anyone has the world's goods
+        and sees his brother in need,
+        yet closes his heart against him,
+    how does God's love abide in him?
+[18] Little children,
+    let us not love in word or talk
+        but in deed and in truth.
+```
+
+---
+
+## 34. Galatians 3:28
+
+**Sermon angle:** Dever's gospel-unity text — compelling community crosses natural divisions; groups mirror the whole church.
+
+```
+[28] There is neither Jew nor Greek,
+        there is neither slave nor free,
+        there is no male and female,
+    for you are all one in Christ Jesus.
+```
+
+---
+
+## 35. Galatians 6:10
+
+**Sermon angle:** Dever's household-of-faith text — do good to all, but especially to church members bound by covenant.
+
+```
+[10] So then,
+    as we have opportunity,
+    let us do good to everyone,
+        and especially to those who are of the household of faith.
+```
+
+---
+
+## 36. 1 Peter 5:1–5
+
+**Sermon angle:** Dever's eldership text — shepherds exercise willing oversight; members submit in humility.
+
+```
+[1] So I exhort the elders among you,
+        as a fellow elder
+            and a witness of the sufferings of Christ,
+        as well as a fellow partaker in the glory that is going to be revealed:
+[2] shepherd the flock of God that is among you,
+        exercising oversight,
+        not under compulsion,
+            but willingly,
+            as God would have you;
+        not for shameful gain,
+            but eagerly;
+[3] not domineering over those in your charge,
+        but being examples to the flock.
+[4] And when the chief Shepherd appears,
+    you will receive the unfading crown of glory.
+[5] Likewise, you who are younger,
+    be subject to the elders.
+    Clothe yourselves, all of you,
+        with humility toward one another,
+    for "God opposes the proud
+        but gives grace to the humble."
 ```
