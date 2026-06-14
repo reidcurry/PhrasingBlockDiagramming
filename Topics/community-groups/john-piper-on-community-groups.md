@@ -21,12 +21,12 @@ Key motivations in his teaching:
 
 | Theme | Texts Piper often drew on | How he applied them |
 |-------|---------------------------|---------------------|
-| **One-another ministry** | Romans 12, Ephesians 4:12, Colossians 3:16 | Every member ministers; groups are where "one another" commands become concrete |
-| **Spiritual gifts** | Romans 12:3–8, 1 Corinthians 12–14 | Groups are the primary setting for discovering and exercising gifts for the body's upbuilding |
-| **Mutual encouragement** | Hebrews 10:23–25 | "Consider how to stir up one another" requires regular, intentional meeting |
-| **Body life / upbuilding** | Ephesians 4:15–16 | Christ enables the church to build itself up in love through each part working |
-| **Word and admonition** | Colossians 3:16 | Groups should be places of teaching and admonishing one another in wisdom |
-| **Love as witness** | John 13:34–35 | Warm, earnest love among members marks disciples before the world |
+| **One-another ministry** | [Romans 12](../community-groups-passages.md#3-romans-12913) ([12:9–13](../../phrasing/romans/12-9-13-esv.md), [12:14–21](../../phrasing/romans/12-14-21-esv.md)), [Ephesians 4:12](../community-groups-passages.md#5-ephesians-41116) ([4:11–16](../../phrasing/ephesians/4-11-16-esv.md)), [Colossians 3:16](../community-groups-passages.md#6-colossians-31217) ([3:12–17](../../phrasing/colossians/3-12-17-esv.md)) | Every member ministers; groups are where "one another" commands become concrete |
+| **Spiritual gifts** | [Romans 12:3–8](../../phrasing/romans/12-3-8-esv.md), [1 Corinthians 12–14](../community-groups-passages.md) ([12:1–11](../../phrasing/1-corinthians/12-1-11-esv.md), [12:12–20](../../phrasing/1-corinthians/12-12-20-esv.md), [12:21–31](../../phrasing/1-corinthians/12-21-31-esv.md), [13:1–13](../../phrasing/1-corinthians/13-1-13-esv.md), [14:1–25](../../phrasing/1-corinthians/14-1-25-esv.md), [14:26](../../phrasing/1-corinthians/14-26-esv.md)) | Groups are the primary setting for discovering and exercising gifts for the body's upbuilding |
+| **Mutual encouragement** | [Hebrews 10:23–25](../../phrasing/hebrews/10-23-25-esv.md) | "Consider how to stir up one another" requires regular, intentional meeting |
+| **Body life / upbuilding** | [Ephesians 4:15–16](../community-groups-passages.md#5-ephesians-41116) ([4:11–16](../../phrasing/ephesians/4-11-16-esv.md)) | Christ enables the church to build itself up in love through each part working |
+| **Word and admonition** | [Colossians 3:16](../community-groups-passages.md#6-colossians-31217) ([3:12–17](../../phrasing/colossians/3-12-17-esv.md)) | Groups should be places of teaching and admonishing one another in wisdom |
+| **Love as witness** | [John 13:34–35](../../phrasing/john/13-34-35-esv.md) | Warm, earnest love among members marks disciples before the world |
 
 Piper repeatedly warned against groups that are **social or Bible-study only** without interpersonal, Spirit-empowered ministry—what he called moving toward "New Testament life together" ([How Christ Enables the Church to Upbuild Itself in Love](https://www.desiringgod.org/messages/how-christ-enables-the-church-to-upbuild-itself-in-love)).
 
@@ -64,7 +64,7 @@ He illustrated failure modes: groups that eat together but never minister; a vis
 Small groups express **every-member ministry** while remaining under **elder oversight**—not democracy replacing shepherds, but shepherds equipping saints for the work of ministry.
 
 ### 2. Grace, gifts, and faith
-Romans 12:3–8 sermon: groups depend on **God's grace** for both the **gifts** needed to help each other and the **faith** to use them—so God gets glory ([Measures of Faith, Gifts of Grace, Ministry in Small Groups](https://www.desiringgod.org/messages/measures-of-faith-gifts-of-grace-ministry-in-small-groups)).
+Romans 12:3–8 sermon: groups depend on **God's grace** for both the **gifts** needed to help each other and the **faith** to use them—so God gets glory ([Measures of Faith, Gifts of Grace, Ministry in Small Groups](https://www.desiringgod.org/messages/measures-of-faith-gifts-of-grace-ministry-in-small-groups)). See [phrasing](../../phrasing/romans/12-3-8-esv.md).
 
 ### 3. Relational culture
 Piper pursued a church culture "intentionally and radically servant-like, other-oriented, thoughtful, outgoing, humble, thankful, aggressively concerned and caring"—small groups as the greenhouse for that culture ([Teaching and Admonishing One Another in All Wisdom](https://www.desiringgod.org/messages/teaching-and-admonishing-one-another-in-all-wisdom)). Pastors modeled this by being in groups themselves.

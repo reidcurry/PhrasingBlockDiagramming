@@ -24,6 +24,12 @@ Quick-review document for expository preaching on **Community Groups**. Individu
 | 18 | Psalm 133 | Unity is good, pleasant, and blessed | [psalms/133-esv.md](../../phrasing/psalms/133-esv.md) |
 | 19 | Ephesians 2:19–22 | Fellow citizens built together into God's dwelling | [ephesians/2-19-22-esv.md](../../phrasing/ephesians/2-19-22-esv.md) |
 | 20 | 1 Corinthians 14:26 | Gather to contribute; all for building up | [1-corinthians/14-26-esv.md](../../phrasing/1-corinthians/14-26-esv.md) |
+| 21 | Romans 12:3–8 | Grace, faith, and diverse gifts in one body (Piper) | [romans/12-3-8-esv.md](../../phrasing/romans/12-3-8-esv.md) |
+| 22 | Romans 12:14–21 | Bless, share grief, harmony, overcome evil with good (Piper) | [romans/12-14-21-esv.md](../../phrasing/romans/12-14-21-esv.md) |
+| 23 | 1 Corinthians 12:1–11 | Spiritual gifts: one Spirit, common good (Piper) | [1-corinthians/12-1-11-esv.md](../../phrasing/1-corinthians/12-1-11-esv.md) |
+| 24 | 1 Corinthians 12:21–31 | No dispensable member; desire higher gifts (Piper) | [1-corinthians/12-21-31-esv.md](../../phrasing/1-corinthians/12-21-31-esv.md) |
+| 25 | 1 Corinthians 13:1–13 | Love: the more excellent way than gifts (Piper) | [1-corinthians/13-1-13-esv.md](../../phrasing/1-corinthians/13-1-13-esv.md) |
+| 26 | 1 Corinthians 14:1–25 | Pursue love; prophecy edifies the gathered church (Piper) | [1-corinthians/14-1-25-esv.md](../../phrasing/1-corinthians/14-1-25-esv.md) |
 
 ---
 
@@ -528,4 +534,323 @@ Quick-review document for expository preaching on **Community Groups**. Individu
             or an interpretation.
     Let all things be done
         for building up.
+```
+
+---
+
+## 21. Romans 12:3–8
+
+**Sermon angle:** Piper's gifts text — sober self-assessment, one body in Christ, and grace-given gifts exercised in small-group ministry for God's glory.
+
+```
+[3] For by the grace given to me
+        I say to everyone among you
+            not to think of himself more highly than he ought to think,
+        but to think with sober judgment,
+            each according to the measure of faith
+                that God has assigned.
+[4] For as in one body we have many members,
+        and the members do not all have the same function,
+[5] so we, though many, are one body in Christ,
+        and individually members one of another.
+[6] Having gifts that differ
+        according to the grace given to us,
+    let us use them:
+        if prophecy,
+            in proportion to our faith;
+[7] if service,
+        in our serving;
+    the one who teaches,
+        in his teaching;
+[8] the one who exhorts,
+        in his exhortation;
+    the one who contributes,
+        in generosity;
+    the one who leads,
+        with zeal;
+    the one who does acts of mercy,
+        with cheerfulness.
+```
+
+---
+
+## 22. Romans 12:14–21
+
+**Sermon angle:** One-another life under pressure — bless persecutors, share joy and grief, pursue harmony, and overcome evil with good in close community.
+
+```
+[14] Bless those who persecute you;
+    bless and do not curse them.
+[15] Rejoice with those who rejoice,
+    weep with those who weep.
+[16] Live in harmony with one another.
+    Do not be haughty,
+        but associate with the lowly.
+    Never be wise in your own sight.
+[17] Repay no one evil for evil,
+        but give thought to do what is honorable
+            in the sight of all.
+[18] If possible,
+        so far as it depends on you,
+    live peaceably with all.
+[19] Beloved, never avenge yourselves,
+        but leave it to the wrath of God,
+        for it is written,
+            "Vengeance is mine,
+                I will repay, says the Lord."
+[20] To the contrary,
+        "if your enemy is hungry, feed him;
+        if he is thirsty, give him something to drink;
+        for by so doing you will heap burning coals on his head."
+[21] Do not be overcome by evil,
+    but overcome evil with good.
+```
+
+---
+
+## 23. 1 Corinthians 12:1–11
+
+**Sermon angle:** Spiritual gifts in community — one Spirit, one Lord, one God; diverse manifestations for the common good in the gathered body.
+
+```
+[1] Now concerning spiritual gifts, brothers,
+        I do not want you to be uninformed.
+[2] You know that when you were pagans
+        you were led astray to mute idols,
+            however you were led.
+[3] Therefore I want you to understand
+        that no one speaking in the Spirit of God
+            ever says "Jesus is accursed!"
+        and no one can say "Jesus is Lord"
+            except in the Holy Spirit.
+[4] Now there are varieties of gifts,
+        but the same Spirit;
+[5] and there are varieties of service,
+        but the same Lord;
+[6] and there are varieties of activities,
+        but it is the same God
+            who empowers them all in everyone.
+[7] To each is given the manifestation of the Spirit
+        for the common good.
+[8] For to one is given through the Spirit the utterance of wisdom,
+        and to another the utterance of knowledge
+            according to the same Spirit,
+[9] to another faith by the same Spirit,
+        to another gifts of healing by the one Spirit,
+[10] to another the working of miracles,
+        to another prophecy,
+        to another the ability to distinguish between spirits,
+        to another various kinds of tongues,
+        to another the interpretation of tongues.
+[11] All these are empowered by one and the same Spirit,
+        who apportions to each one individually
+            as he wills.
+```
+
+---
+
+## 24. 1 Corinthians 12:21–31
+
+**Sermon angle:** No member dispensable — weaker parts indispensable, mutual care when one suffers or is honored, and earnest desire for gifts that build the body.
+
+```
+[21] The eye cannot say to the hand,
+        "I have no need of you,"
+    nor again the head to the feet,
+        "I have no need of you."
+[22] On the contrary,
+        the parts of the body that seem to be weaker
+            are indispensable,
+[23] and on those parts of the body that we think less honorable
+        we bestow the greater honor,
+        and our unpresentable parts are treated with greater modesty,
+[24] which our more presentable parts do not require.
+    But God has so composed the body,
+        giving greater honor to the part that lacked it,
+[25] that there should be no division in the body,
+        but that the members should have the same care for one another.
+[26] If one member suffers,
+        all suffer together;
+    if one member is honored,
+        all rejoice together.
+[27] Now you are the body of Christ
+        and individually members of it.
+[28] And God has appointed in the church
+        first apostles,
+        second prophets,
+        third teachers,
+        then miracles,
+        then gifts of healing,
+        helping,
+        administrating,
+        and various kinds of tongues.
+[29] Are all apostles?
+    Are all prophets?
+    Are all teachers?
+    Are all workers of miracles?
+[30] Do all possess gifts of healing?
+    Do all speak with tongues?
+    Do all interpret?
+[31] But earnestly desire the higher gifts.
+    And I will show you a still more excellent way.
+```
+
+---
+
+## 25. 1 Corinthians 13:1–13
+
+**Sermon angle:** Piper's "more excellent way" — gifts without love are nothing; love endures and must govern all small-group ministry.
+
+```
+[1] If I speak in the tongues of men and of angels,
+        but have not love,
+        I am a noisy gong
+            or a clanging cymbal.
+[2] And if I have prophetic powers,
+        and understand all mysteries and all knowledge,
+        and if I have all faith,
+            so as to remove mountains,
+        but have not love,
+        I am nothing.
+[3] If I give away all I have,
+        and if I deliver up my body to be burned,
+        but have not love,
+        I gain nothing.
+[4] Love is patient and kind;
+    love does not envy or boast;
+    it is not arrogant
+[5] or rude.
+    It does not insist on its own way;
+    it is not irritable or resentful;
+[6] it does not rejoice at wrongdoing,
+        but rejoices with the truth.
+[7] Love bears all things,
+    believes all things,
+    hopes all things,
+    endures all things.
+[8] Love never ends.
+    As for prophecies,
+        they will pass away;
+    as for tongues,
+        they will cease;
+    as for knowledge,
+        it will pass away.
+[9] For we know in part
+        and we prophesy in part,
+[10] but when the perfect comes,
+        the partial will pass away.
+[11] When I was a child,
+        I spoke like a child,
+        I thought like a child,
+        I reasoned like a child.
+    When I became a man,
+        I gave up childish ways.
+[12] For now we see in a mirror dimly,
+        but then face to face.
+    Now I know in part;
+        then I shall know fully,
+            even as I have been fully known.
+[13] So now faith, hope, and love abide,
+        these three;
+    but the greatest of these is love.
+```
+
+---
+
+## 26. 1 Corinthians 14:1–25
+
+**Sermon angle:** Pursue love and edifying gifts — prophecy builds up the church; gathered ministry must be intelligible so all are strengthened and outsiders encounter God.
+
+```
+[1] Pursue love,
+        and earnestly desire the spiritual gifts,
+            especially that you may prophesy.
+[2] For one who speaks in a tongue
+        speaks not to men but to God;
+        for no one understands him,
+        but he utters mysteries in the Spirit.
+[3] On the other hand, the one who prophesies
+        speaks to people
+            for their upbuilding
+                and encouragement
+                and consoling.
+[4] The one who speaks in a tongue
+        builds up himself,
+    but the one who prophesies
+        builds up the church.
+[5] Now I want you all to speak in tongues,
+        but even more to prophesy.
+    The one who prophesies is greater than the one who speaks in tongues,
+        unless someone interprets,
+            so that the church may be built up.
+[6] Now, brothers,
+        if I come to you speaking in tongues,
+        how will I benefit you
+            unless I bring you some revelation
+                or knowledge
+                or prophecy
+                or teaching?
+[7] If even lifeless instruments,
+        such as the flute or the harp,
+        do not give distinct notes,
+        how will anyone know what is played?
+[8] And if the bugle gives an indistinct sound,
+        who will get ready for battle?
+[9] So with yourselves,
+        if with your tongue you utter speech that is not intelligible,
+        how will anyone know what is said?
+    For you will be speaking into the air.
+[10] There are doubtless many different languages in the world,
+        and none is without meaning,
+[11] but if I do not know the meaning of the language,
+        I will be a foreigner to the speaker
+        and the speaker a foreigner to me.
+[12] So with yourselves,
+        since you are eager for manifestations of the Spirit,
+    strive to excel in building up the church.
+[13] Therefore, the one who speaks in a tongue
+        should pray that he may interpret.
+[14] For if I pray in a tongue,
+        my spirit prays
+        but my mind is unfruitful.
+[15] What am I to do?
+    I will pray with my spirit,
+        but I will pray with my mind also;
+    I will sing praise with my spirit,
+        but I will sing with my mind also.
+[16] Otherwise, if you give thanks with your spirit,
+        how can anyone in the position of an outsider
+            say "Amen" to your thanksgiving
+                when he does not know what you are saying?
+[17] For you may be giving thanks well enough,
+        but the other person is not being built up.
+[18] I thank God that I speak in tongues more than all of you.
+[19] Nevertheless, in church I would rather speak five words with my mind
+            in order to instruct others,
+        than ten thousand words in a tongue.
+[20] Brothers, do not be children in your thinking.
+    Be infants in evil,
+        but in your thinking be mature.
+[21] In the Law it is written,
+        "By people of strange tongues
+            and by the lips of foreigners
+        will I speak to this people,
+        and even then they will not listen to me,
+            says the Lord."
+[22] Thus tongues are a sign
+        not for believers but for unbelievers,
+    while prophecy is a sign
+        not for unbelievers but for believers.
+[23] If, therefore, the whole church comes together
+        and all speak in tongues,
+        and outsiders or unbelievers enter,
+        will they not say that you are out of your minds?
+[24] But if all prophesy,
+        and an unbeliever or outsider enters,
+        he is convicted by all,
+        he is called to account by all,
+[25] the secrets of his heart are disclosed,
+        and so, falling on his face,
+        he will worship God
+            and declare that God is really among you.
 ```
