@@ -42,7 +42,7 @@ This repository stores phrasing work for Bible passages—passage reference, tra
 
 ## Organization
 
-Passage files live directly under `phrasing/`, one folder per biblical book:
+**Passage files** live under `phrasing/`, one folder per biblical book:
 
 ```
 phrasing/
@@ -54,12 +54,13 @@ phrasing/
     12-9-13-esv.md
 ```
 
-**Topic collections** (e.g. a sermon series) get a folder under `phrasing/` with a single review document that collects all related phrasings in one file:
+**Topic collections** (e.g. a sermon series) get a folder under `Topics/` with review and prep documents that link to the individual passage files:
 
 ```
-phrasing/
+Topics/
   community-groups/
     community-groups-passages.md
+    john-piper-on-community-groups.md
 ```
 
 Each passage file typically includes:
