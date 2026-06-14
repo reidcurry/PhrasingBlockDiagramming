@@ -40,19 +40,29 @@ This repository stores phrasing work for Bible passages—passage reference, tra
 - Not a commentary or sermon archive
 - Not tied to a single translation—each file should note which translation was used
 
-## Organization (suggested)
+## Organization
 
-As the collection grows, organize by book and passage, for example:
+Passage files live directly under `phrasing/`, one folder per biblical book:
 
 ```
 phrasing/
   2-timothy/
     4-1-5-esv.md
+  acts/
+    2-42-47-esv.md
   romans/
-    8-28-30-esv.md
+    12-9-13-esv.md
 ```
 
-Each file typically includes:
+**Topic collections** (e.g. a sermon series) get a folder under `phrasing/` with a single review document that collects all related phrasings in one file:
+
+```
+phrasing/
+  community-groups/
+    community-groups-passages.md
+```
+
+Each passage file typically includes:
 
 1. **Reference and translation** (e.g. 2 Timothy 4:1–5, ESV)
 2. **Whole-passage flow** — complete text with indentation and verse numbers
