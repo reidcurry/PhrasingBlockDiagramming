@@ -1,4 +1,4 @@
-# Mark Dever on Community Groups — Sermon Prep Summary
+﻿# Mark Dever on Community Groups — Sermon Prep Summary
 
 A brief research summary of how Mark Dever teaches about small groups, membership, and one-another ministry through 9Marks and Capitol Hill Baptist Church (Washington, DC). For sermon preparation—not a transcript or quote collection.
 
@@ -24,14 +24,14 @@ Key motivations in his teaching:
 
 | Theme | Texts Dever often drew on | How he applied them |
 |-------|---------------------------|---------------------|
-| **Meaningful membership** | [Hebrews 13:17](../community-groups-passages.md#27-hebrews-1317) ([13:17](../../phrasing/hebrews/13-17-esv.md)), [1 Corinthians 5:9–13](../community-groups-passages.md#28-1-corinthians-5913) ([5:9–13](../../phrasing/1-corinthians/5-9-13-esv.md)), [Matthew 18:15–20](../community-groups-passages.md#12-matthew-181520) ([18:15–20](../../phrasing/matthew/18-15-20-esv.md)) | Knowable boundaries, inside/outside distinction, and congregational discipline imply real membership |
-| **Gathering and encouragement** | [Hebrews 10:23–25](../community-groups-passages.md#2-hebrews-102325) ([10:23–25](../../phrasing/hebrews/10-23-25-esv.md)) | Neglecting assembly forfeits mutual encouragement; grounds pursuit of non-attenders |
-| **Pastoral oversight** | [Acts 20:28–31](../community-groups-passages.md#29-acts-202831) ([20:28–31](../../phrasing/acts/20-28-31-esv.md)), [1 Peter 5:1–5](../community-groups-passages.md#36-1-peter-515) ([5:1–5](../../phrasing/1-peter/5-1-5-esv.md)) | Elders watch the flock Christ bought; group leaders extend, not replace, this ministry |
-| **Discipling / Great Commission** | [Matthew 28:18–20](../community-groups-passages.md#30-matthew-281820) ([28:18–20](../../phrasing/matthew/28-18-20-esv.md)), [Titus 2:1–8](../community-groups-passages.md#31-titus-218) ([2:1–8](../../phrasing/titus/2-1-8-esv.md)) | Every Christian makes disciples; cross-generational training in the church |
-| **Body life and equipping** | [Ephesians 4:11–16](../community-groups-passages.md#5-ephesians-41116) ([4:11–16](../../phrasing/ephesians/4-11-16-esv.md)), [1 Corinthians 12](../community-groups-passages.md) | Groups sit on a spectrum: congregation → small groups → one-on-one discipling |
-| **Unity in diversity** | [Ephesians 4:1–3](../community-groups-passages.md#32-ephesians-413) ([4:1–3](../../phrasing/ephesians/4-1-3-esv.md)), [Galatians 3:28](../community-groups-passages.md#34-galatians-328) ([3:28](../../phrasing/galatians/3-28-esv.md)), [Ephesians 2:19–22](../community-groups-passages.md#19-ephesians-21922) ([2:19–22](../../phrasing/ephesians/2-19-22-esv.md)) | Gospel-revealing community crosses ethnic and social lines; groups mirror the whole church |
-| **Love in deed** | [1 John 3:16–18](../community-groups-passages.md#33-1-john-31618) ([3:16–18](../../phrasing/1-john/3-16-18-esv.md)), [Galatians 6:1–2](../community-groups-passages.md#7-galatians-612) ([6:1–2](../../phrasing/galatians/6-1-2-esv.md)), [Galatians 6:10](../community-groups-passages.md#35-galatians-610) ([6:10](../../phrasing/galatians/6-10-esv.md)) | Practical care, restoration, and prioritized love for the household of faith |
-| **Prototype church life** | [Acts 2:42–47](../community-groups-passages.md#1-acts-24247) ([2:42–47](../../phrasing/acts/2-42-47-esv.md)) | Early church patterns imply devoted, identifiable community under apostolic teaching |
+| **Meaningful membership** | [Hebrews 13:17](../community-groups-passages.md#27-hebrews-1317) ([13:17](../../phrasing/NT/19-hebrews/hebrews-13-17-esv.md)), [1 Corinthians 5:9–13](../community-groups-passages.md#28-1-corinthians-5913) ([5:9–13](../../phrasing/NT/07-1-corinthians/1-corinthians-5-9-13-esv.md)), [Matthew 18:15–20](../community-groups-passages.md#12-matthew-181520) ([18:15–20](../../phrasing/NT/01-matthew/matthew-18-15-20-esv.md)) | Knowable boundaries, inside/outside distinction, and congregational discipline imply real membership |
+| **Gathering and encouragement** | [Hebrews 10:23–25](../community-groups-passages.md#2-hebrews-102325) ([10:23–25](../../phrasing/NT/19-hebrews/hebrews-10-23-25-esv.md)) | Neglecting assembly forfeits mutual encouragement; grounds pursuit of non-attenders |
+| **Pastoral oversight** | [Acts 20:28–31](../community-groups-passages.md#29-acts-202831) ([20:28–31](../../phrasing/NT/05-acts/acts-20-28-31-esv.md)), [1 Peter 5:1–5](../community-groups-passages.md#36-1-peter-515) ([5:1–5](../../phrasing/NT/21-1-peter/1-peter-5-1-5-esv.md)) | Elders watch the flock Christ bought; group leaders extend, not replace, this ministry |
+| **Discipling / Great Commission** | [Matthew 28:18–20](../community-groups-passages.md#30-matthew-281820) ([28:18–20](../../phrasing/NT/01-matthew/matthew-28-18-20-esv.md)), [Titus 2:1–8](../community-groups-passages.md#31-titus-218) ([2:1–8](../../phrasing/NT/17-titus/titus-2-1-8-esv.md)) | Every Christian makes disciples; cross-generational training in the church |
+| **Body life and equipping** | [Ephesians 4:11–16](../community-groups-passages.md#5-ephesians-41116) ([4:11–16](../../phrasing/NT/10-ephesians/ephesians-4-11-16-esv.md)), [1 Corinthians 12](../community-groups-passages.md) | Groups sit on a spectrum: congregation → small groups → one-on-one discipling |
+| **Unity in diversity** | [Ephesians 4:1–3](../community-groups-passages.md#32-ephesians-413) ([4:1–3](../../phrasing/NT/10-ephesians/ephesians-4-1-3-esv.md)), [Galatians 3:28](../community-groups-passages.md#34-galatians-328) ([3:28](../../phrasing/NT/09-galatians/galatians-3-28-esv.md)), [Ephesians 2:19–22](../community-groups-passages.md#19-ephesians-21922) ([2:19–22](../../phrasing/NT/10-ephesians/ephesians-2-19-22-esv.md)) | Gospel-revealing community crosses ethnic and social lines; groups mirror the whole church |
+| **Love in deed** | [1 John 3:16–18](../community-groups-passages.md#33-1-john-31618) ([3:16–18](../../phrasing/NT/23-1-john/1-john-3-16-18-esv.md)), [Galatians 6:1–2](../community-groups-passages.md#7-galatians-612) ([6:1–2](../../phrasing/NT/09-galatians/galatians-6-1-2-esv.md)), [Galatians 6:10](../community-groups-passages.md#35-galatians-610) ([6:10](../../phrasing/NT/09-galatians/galatians-6-10-esv.md)) | Practical care, restoration, and prioritized love for the household of faith |
+| **Prototype church life** | [Acts 2:42–47](../community-groups-passages.md#1-acts-24247) ([2:42–47](../../phrasing/NT/05-acts/acts-2-42-47-esv.md)) | Early church patterns imply devoted, identifiable community under apostolic teaching |
 
 Dever repeatedly warns against **gospel-plus community** (affinity-based cliques) and against **groups that become the primary spiritual home** rather than the whole congregation ([*The Compelling Community*](https://www.9marks.org/books/the-compelling-community/)).
 
@@ -108,24 +108,24 @@ This structure aims to make **Ephesians 4:11–12** and **Hebrews 13:17** operat
 
 | Passage | Theme in Dever's framework | Phrasing |
 |---------|---------------------------|----------|
-| Acts 2:42–47 | Prototype devoted community | [phrasing](../../phrasing/acts/2-42-47-esv.md) |
-| Acts 20:28–31 | Elders watch the blood-bought flock | [phrasing](../../phrasing/acts/20-28-31-esv.md) |
-| Matthew 18:15–20 | Congregational discipline; two or three gathered | [phrasing](../../phrasing/matthew/18-15-20-esv.md) |
-| Matthew 28:18–20 | Great Commission; baptize and teach obedience | [phrasing](../../phrasing/matthew/28-18-20-esv.md) |
-| Galatians 3:28 | One in Christ across divisions | [phrasing](../../phrasing/galatians/3-28-esv.md) |
-| Galatians 6:1–2 | Restore gently; bear burdens | [phrasing](../../phrasing/galatians/6-1-2-esv.md) |
-| Galatians 6:10 | Do good especially to household of faith | [phrasing](../../phrasing/galatians/6-10-esv.md) |
-| Ephesians 2:19–22 | Fellow citizens, household, temple | [phrasing](../../phrasing/ephesians/2-19-22-esv.md) |
-| Ephesians 4:1–3 | Maintain unity in humility | [phrasing](../../phrasing/ephesians/4-1-3-esv.md) |
-| Ephesians 4:11–16 | Equip saints for ministry | [phrasing](../../phrasing/ephesians/4-11-16-esv.md) |
-| 1 Corinthians 5:9–13 | Judge those inside; purge evil | [phrasing](../../phrasing/1-corinthians/5-9-13-esv.md) |
+| Acts 2:42–47 | Prototype devoted community | [phrasing](../../phrasing/NT/05-acts/acts-2-42-47-esv.md) |
+| Acts 20:28–31 | Elders watch the blood-bought flock | [phrasing](../../phrasing/NT/05-acts/acts-20-28-31-esv.md) |
+| Matthew 18:15–20 | Congregational discipline; two or three gathered | [phrasing](../../phrasing/NT/01-matthew/matthew-18-15-20-esv.md) |
+| Matthew 28:18–20 | Great Commission; baptize and teach obedience | [phrasing](../../phrasing/NT/01-matthew/matthew-28-18-20-esv.md) |
+| Galatians 3:28 | One in Christ across divisions | [phrasing](../../phrasing/NT/09-galatians/galatians-3-28-esv.md) |
+| Galatians 6:1–2 | Restore gently; bear burdens | [phrasing](../../phrasing/NT/09-galatians/galatians-6-1-2-esv.md) |
+| Galatians 6:10 | Do good especially to household of faith | [phrasing](../../phrasing/NT/09-galatians/galatians-6-10-esv.md) |
+| Ephesians 2:19–22 | Fellow citizens, household, temple | [phrasing](../../phrasing/NT/10-ephesians/ephesians-2-19-22-esv.md) |
+| Ephesians 4:1–3 | Maintain unity in humility | [phrasing](../../phrasing/NT/10-ephesians/ephesians-4-1-3-esv.md) |
+| Ephesians 4:11–16 | Equip saints for ministry | [phrasing](../../phrasing/NT/10-ephesians/ephesians-4-11-16-esv.md) |
+| 1 Corinthians 5:9–13 | Judge those inside; purge evil | [phrasing](../../phrasing/NT/07-1-corinthians/1-corinthians-5-9-13-esv.md) |
 | 1 Corinthians 12 (various) | Body metaphors for membership | [collection](../community-groups-passages.md) |
-| Hebrews 10:23–25 | Do not neglect meeting together | [phrasing](../../phrasing/hebrews/10-23-25-esv.md) |
-| Hebrews 13:17 | Obey leaders; soul-watch and account | [phrasing](../../phrasing/hebrews/13-17-esv.md) |
-| Titus 2:1–8 | Cross-generational discipling | [phrasing](../../phrasing/titus/2-1-8-esv.md) |
-| 1 Peter 5:1–5 | Shepherd willingly; humble submission | [phrasing](../../phrasing/1-peter/5-1-5-esv.md) |
-| 1 John 1:5–7 | Walk in light; horizontal fellowship | [phrasing](../../phrasing/1-john/1-5-7-esv.md) |
-| 1 John 3:16–18 | Love in deed, not word alone | [phrasing](../../phrasing/1-john/3-16-18-esv.md) |
+| Hebrews 10:23–25 | Do not neglect meeting together | [phrasing](../../phrasing/NT/19-hebrews/hebrews-10-23-25-esv.md) |
+| Hebrews 13:17 | Obey leaders; soul-watch and account | [phrasing](../../phrasing/NT/19-hebrews/hebrews-13-17-esv.md) |
+| Titus 2:1–8 | Cross-generational discipling | [phrasing](../../phrasing/NT/17-titus/titus-2-1-8-esv.md) |
+| 1 Peter 5:1–5 | Shepherd willingly; humble submission | [phrasing](../../phrasing/NT/21-1-peter/1-peter-5-1-5-esv.md) |
+| 1 John 1:5–7 | Walk in light; horizontal fellowship | [phrasing](../../phrasing/NT/23-1-john/1-john-1-5-7-esv.md) |
+| 1 John 3:16–18 | Love in deed, not word alone | [phrasing](../../phrasing/NT/23-1-john/1-john-3-16-18-esv.md) |
 
 ---
 

@@ -42,16 +42,20 @@ This repository stores phrasing work for Bible passages—passage reference, tra
 
 ## Organization
 
-**Passage files** live under `phrasing/`, one folder per biblical book:
+**Passage files** live under `phrasing/`, organized by testament with numbered book folders:
 
 ```
 phrasing/
-  2-timothy/
-    4-1-5-esv.md
-  acts/
-    2-42-47-esv.md
-  romans/
-    12-9-13-esv.md
+  OT/
+    19-psalms/
+      psalms-133-esv.md
+  NT/
+    05-acts/
+      acts-2-42-47-esv.md
+    06-romans/
+      romans-12-9-13-esv.md
+    16-2-timothy/
+      2-timothy-4-1-5-esv.md
 ```
 
 **Topic collections** (e.g. a sermon series) get a folder under `Topics/` with review and prep documents that link to the individual passage files:
