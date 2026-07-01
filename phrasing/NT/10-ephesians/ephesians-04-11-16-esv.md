@@ -24,8 +24,8 @@
    |                 to mature manhood,
    |                 to the measure of the stature
    |                     of the fullness of Christ,
-14 |             so that we may
-   |                 no longer be children,
+14 |             so that
+   |                 we may no longer be children,
    |                     tossed to and fro
    |                         by the waves
    |                     and carried about
