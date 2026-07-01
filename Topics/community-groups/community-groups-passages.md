@@ -1,4 +1,4 @@
-﻿# Community Groups — All Passages (ESV)
+# Community Groups — All Passages (ESV)
 
 Quick-review document for expository preaching on **Community Groups**. Individual passage files live under `phrasing/{OT|NT}/{book}/`. This file collects every whole-passage phrasing in one place.
 
@@ -10,42 +10,42 @@ Sermon-prep summaries: [John Piper](john-piper-on-community-groups.md) · [Mark 
 
 | # | Passage | Sermon angle | Source | File |
 |---|---------|--------------|--------|------|
-| 1 | Colossians 3:12–17 | How community dresses, forgives, and speaks | JP | [NT/12-colossians/colossians-3-12-17-esv.md](../../phrasing/NT/12-colossians/colossians-3-12-17-esv.md) |
+| 1 | Colossians 3:12–17 | How community dresses, forgives, and speaks | JP | [NT/12-colossians/colossians-03-12-17-esv.md](../../phrasing/NT/12-colossians/colossians-03-12-17-esv.md) |
 | 2 | Hebrews 10:23–25 | Why gather: hold fast, stir up, meet, encourage | JP/MD | [NT/19-hebrews/hebrews-10-23-25-esv.md](../../phrasing/NT/19-hebrews/hebrews-10-23-25-esv.md) |
-| 3 | Ephesians 4:11–16 | Equipped saints building up the body | JP/MD | [NT/10-ephesians/ephesians-4-11-16-esv.md](../../phrasing/NT/10-ephesians/ephesians-4-11-16-esv.md) |
-| 4 | Romans 12:3–8 | Grace, faith, and diverse gifts in one body | JP | [NT/06-romans/romans-12-3-8-esv.md](../../phrasing/NT/06-romans/romans-12-3-8-esv.md) |
-| 5 | Romans 12:9–13 | Marks of genuine love in community | JP | [NT/06-romans/romans-12-9-13-esv.md](../../phrasing/NT/06-romans/romans-12-9-13-esv.md) |
+| 3 | Ephesians 4:11–16 | Equipped saints building up the body | JP/MD | [NT/10-ephesians/ephesians-04-11-16-esv.md](../../phrasing/NT/10-ephesians/ephesians-04-11-16-esv.md) |
+| 4 | Romans 12:3–8 | Grace, faith, and diverse gifts in one body | JP | [NT/06-romans/romans-12-03-08-esv.md](../../phrasing/NT/06-romans/romans-12-03-08-esv.md) |
+| 5 | Romans 12:9–13 | Marks of genuine love in community | JP | [NT/06-romans/romans-12-09-13-esv.md](../../phrasing/NT/06-romans/romans-12-09-13-esv.md) |
 | 6 | Romans 12:14–21 | Bless, share grief, harmony, overcome evil with good | JP | [NT/06-romans/romans-12-14-21-esv.md](../../phrasing/NT/06-romans/romans-12-14-21-esv.md) |
 | 7 | 1 Corinthians 12:12–20 | One body, many members: belonging and diversity | JP/MD | [NT/07-1-corinthians/1-corinthians-12-12-20-esv.md](../../phrasing/NT/07-1-corinthians/1-corinthians-12-12-20-esv.md) |
-| 8 | 1 Corinthians 12:1–11 | Spiritual gifts: one Spirit, common good | JP/MD | [NT/07-1-corinthians/1-corinthians-12-1-11-esv.md](../../phrasing/NT/07-1-corinthians/1-corinthians-12-1-11-esv.md) |
+| 8 | 1 Corinthians 12:1–11 | Spiritual gifts: one Spirit, common good | JP/MD | [NT/07-1-corinthians/1-corinthians-12-01-11-esv.md](../../phrasing/NT/07-1-corinthians/1-corinthians-12-01-11-esv.md) |
 | 9 | 1 Corinthians 12:21–31 | No dispensable member; desire higher gifts | JP/MD | [NT/07-1-corinthians/1-corinthians-12-21-31-esv.md](../../phrasing/NT/07-1-corinthians/1-corinthians-12-21-31-esv.md) |
-| 10 | 1 Corinthians 13:1–13 | Love: the more excellent way than gifts | JP | [NT/07-1-corinthians/1-corinthians-13-1-13-esv.md](../../phrasing/NT/07-1-corinthians/1-corinthians-13-1-13-esv.md) |
-| 11 | 1 Corinthians 14:1–25 | Pursue love; prophecy edifies the gathered church | JP | [NT/07-1-corinthians/1-corinthians-14-1-25-esv.md](../../phrasing/NT/07-1-corinthians/1-corinthians-14-1-25-esv.md) |
+| 10 | 1 Corinthians 13:1–13 | Love: the more excellent way than gifts | JP | [NT/07-1-corinthians/1-corinthians-13-01-13-esv.md](../../phrasing/NT/07-1-corinthians/1-corinthians-13-01-13-esv.md) |
+| 11 | 1 Corinthians 14:1–25 | Pursue love; prophecy edifies the gathered church | JP | [NT/07-1-corinthians/1-corinthians-14-01-25-esv.md](../../phrasing/NT/07-1-corinthians/1-corinthians-14-01-25-esv.md) |
 | 12 | 1 Corinthians 14:26 | Gather to contribute; all for building up | JP | [NT/07-1-corinthians/1-corinthians-14-26-esv.md](../../phrasing/NT/07-1-corinthians/1-corinthians-14-26-esv.md) |
 | 13 | John 13:34–35 | Christ's love command marks disciples before the world | JP | [NT/04-john/john-13-34-35-esv.md](../../phrasing/NT/04-john/john-13-34-35-esv.md) |
-| 14 | 1 Peter 4:8–11 | Earnest love, hospitality, and gifted service |  | [NT/21-1-peter/1-peter-4-8-11-esv.md](../../phrasing/NT/21-1-peter/1-peter-4-8-11-esv.md) |
-| 15 | 1 Thessalonians 5:11–14 | Encourage, build up, respect leaders, pastor one another |  | [NT/13-1-thessalonians/1-thessalonians-5-11-14-esv.md](../../phrasing/NT/13-1-thessalonians/1-thessalonians-5-11-14-esv.md) |
-| 16 | James 5:13–16 | Suffering, sickness, confession, and prayer together |  | [NT/20-james/james-5-13-16-esv.md](../../phrasing/NT/20-james/james-5-13-16-esv.md) |
-| 17 | Philippians 2:1–4 | Unified mind: humility and others' interests |  | [NT/11-philippians/philippians-2-1-4-esv.md](../../phrasing/NT/11-philippians/philippians-2-1-4-esv.md) |
-| 18 | Romans 15:1–7 | Strong bear with weak; welcome one another for God's glory |  | [NT/06-romans/romans-15-1-7-esv.md](../../phrasing/NT/06-romans/romans-15-1-7-esv.md) |
-| 19 | Galatians 6:1–2 | Restoring the fallen; bearing burdens | MD | [NT/09-galatians/galatians-6-1-2-esv.md](../../phrasing/NT/09-galatians/galatians-6-1-2-esv.md) |
-| 20 | Acts 2:42–47 | The prototype community: word, fellowship, table, prayer | MD | [NT/05-acts/acts-2-42-47-esv.md](../../phrasing/NT/05-acts/acts-2-42-47-esv.md) |
-| 21 | Ephesians 4:1–3 | Maintain unity of the Spirit in humility | MD | [NT/10-ephesians/ephesians-4-1-3-esv.md](../../phrasing/NT/10-ephesians/ephesians-4-1-3-esv.md) |
-| 22 | Ephesians 2:19–22 | Fellow citizens built together into God's dwelling | MD | [NT/10-ephesians/ephesians-2-19-22-esv.md](../../phrasing/NT/10-ephesians/ephesians-2-19-22-esv.md) |
-| 23 | 1 John 3:16–18 | Love in deed, not word alone | MD | [NT/23-1-john/1-john-3-16-18-esv.md](../../phrasing/NT/23-1-john/1-john-3-16-18-esv.md) |
-| 24 | 1 John 1:5–7 | Walk in the light; fellowship and cleansing together | MD | [NT/23-1-john/1-john-1-5-7-esv.md](../../phrasing/NT/23-1-john/1-john-1-5-7-esv.md) |
+| 14 | 1 Peter 4:8–11 | Earnest love, hospitality, and gifted service |  | [NT/21-1-peter/1-peter-04-08-11-esv.md](../../phrasing/NT/21-1-peter/1-peter-04-08-11-esv.md) |
+| 15 | 1 Thessalonians 5:11–14 | Encourage, build up, respect leaders, pastor one another |  | [NT/13-1-thessalonians/1-thessalonians-05-11-14-esv.md](../../phrasing/NT/13-1-thessalonians/1-thessalonians-05-11-14-esv.md) |
+| 16 | James 5:13–16 | Suffering, sickness, confession, and prayer together |  | [NT/20-james/james-05-13-16-esv.md](../../phrasing/NT/20-james/james-05-13-16-esv.md) |
+| 17 | Philippians 2:1–4 | Unified mind: humility and others' interests |  | [NT/11-philippians/philippians-02-01-04-esv.md](../../phrasing/NT/11-philippians/philippians-02-01-04-esv.md) |
+| 18 | Romans 15:1–7 | Strong bear with weak; welcome one another for God's glory |  | [NT/06-romans/romans-15-01-07-esv.md](../../phrasing/NT/06-romans/romans-15-01-07-esv.md) |
+| 19 | Galatians 6:1–2 | Restoring the fallen; bearing burdens | MD | [NT/09-galatians/galatians-06-01-02-esv.md](../../phrasing/NT/09-galatians/galatians-06-01-02-esv.md) |
+| 20 | Acts 2:42–47 | The prototype community: word, fellowship, table, prayer | MD | [NT/05-acts/acts-02-42-47-esv.md](../../phrasing/NT/05-acts/acts-02-42-47-esv.md) |
+| 21 | Ephesians 4:1–3 | Maintain unity of the Spirit in humility | MD | [NT/10-ephesians/ephesians-04-01-03-esv.md](../../phrasing/NT/10-ephesians/ephesians-04-01-03-esv.md) |
+| 22 | Ephesians 2:19–22 | Fellow citizens built together into God's dwelling | MD | [NT/10-ephesians/ephesians-02-19-22-esv.md](../../phrasing/NT/10-ephesians/ephesians-02-19-22-esv.md) |
+| 23 | 1 John 3:16–18 | Love in deed, not word alone | MD | [NT/23-1-john/1-john-03-16-18-esv.md](../../phrasing/NT/23-1-john/1-john-03-16-18-esv.md) |
+| 24 | 1 John 1:5–7 | Walk in the light; fellowship and cleansing together | MD | [NT/23-1-john/1-john-01-05-07-esv.md](../../phrasing/NT/23-1-john/1-john-01-05-07-esv.md) |
 | 25 | Psalm 133 | Unity is good, pleasant, and blessed |  | [OT/19-psalms/psalms-133-esv.md](../../phrasing/OT/19-psalms/psalms-133-esv.md) |
 | 26 | Proverbs 27:17 | Iron sharpens iron: mutual refinement in relationship |  | [OT/20-proverbs/proverbs-27-17-esv.md](../../phrasing/OT/20-proverbs/proverbs-27-17-esv.md) |
-| 27 | Ecclesiastes 4:9–12 | Better together: reward, rescue, warmth, strength |  | [OT/21-ecclesiastes/ecclesiastes-4-9-12-esv.md](../../phrasing/OT/21-ecclesiastes/ecclesiastes-4-9-12-esv.md) |
+| 27 | Ecclesiastes 4:9–12 | Better together: reward, rescue, warmth, strength |  | [OT/21-ecclesiastes/ecclesiastes-04-09-12-esv.md](../../phrasing/OT/21-ecclesiastes/ecclesiastes-04-09-12-esv.md) |
 | 28 | Matthew 18:15–20 | Restoring a sinning brother; Christ among two or three | MD | [NT/01-matthew/matthew-18-15-20-esv.md](../../phrasing/NT/01-matthew/matthew-18-15-20-esv.md) |
 | 29 | Hebrews 13:17 | Obey leaders who watch souls and give account | MD | [NT/19-hebrews/hebrews-13-17-esv.md](../../phrasing/NT/19-hebrews/hebrews-13-17-esv.md) |
-| 30 | 1 Corinthians 5:9–13 | Judge those inside; purge evil from the church | MD | [NT/07-1-corinthians/1-corinthians-5-9-13-esv.md](../../phrasing/NT/07-1-corinthians/1-corinthians-5-9-13-esv.md) |
+| 30 | 1 Corinthians 5:9–13 | Judge those inside; purge evil from the church | MD | [NT/07-1-corinthians/1-corinthians-05-09-13-esv.md](../../phrasing/NT/07-1-corinthians/1-corinthians-05-09-13-esv.md) |
 | 31 | Acts 20:28–31 | Elders watch the flock Christ bought with his blood | MD | [NT/05-acts/acts-20-28-31-esv.md](../../phrasing/NT/05-acts/acts-20-28-31-esv.md) |
 | 32 | Matthew 28:18–20 | Great Commission: baptize and teach obedience | MD | [NT/01-matthew/matthew-28-18-20-esv.md](../../phrasing/NT/01-matthew/matthew-28-18-20-esv.md) |
-| 33 | Titus 2:1–8 | Cross-generational discipling in sound doctrine | MD | [NT/17-titus/titus-2-1-8-esv.md](../../phrasing/NT/17-titus/titus-2-1-8-esv.md) |
-| 34 | Galatians 3:28 | One in Christ across natural divisions | MD | [NT/09-galatians/galatians-3-28-esv.md](../../phrasing/NT/09-galatians/galatians-3-28-esv.md) |
-| 35 | Galatians 6:10 | Do good to all, especially the household of faith | MD | [NT/09-galatians/galatians-6-10-esv.md](../../phrasing/NT/09-galatians/galatians-6-10-esv.md) |
-| 36 | 1 Peter 5:1–5 | Shepherd willingly; humble submission | MD | [NT/21-1-peter/1-peter-5-1-5-esv.md](../../phrasing/NT/21-1-peter/1-peter-5-1-5-esv.md) |
+| 33 | Titus 2:1–8 | Cross-generational discipling in sound doctrine | MD | [NT/17-titus/titus-02-01-08-esv.md](../../phrasing/NT/17-titus/titus-02-01-08-esv.md) |
+| 34 | Galatians 3:28 | One in Christ across natural divisions | MD | [NT/09-galatians/galatians-03-28-esv.md](../../phrasing/NT/09-galatians/galatians-03-28-esv.md) |
+| 35 | Galatians 6:10 | Do good to all, especially the household of faith | MD | [NT/09-galatians/galatians-06-10-esv.md](../../phrasing/NT/09-galatians/galatians-06-10-esv.md) |
+| 36 | 1 Peter 5:1–5 | Shepherd willingly; humble submission | MD | [NT/21-1-peter/1-peter-05-01-05-esv.md](../../phrasing/NT/21-1-peter/1-peter-05-01-05-esv.md) |
 
 ---
 

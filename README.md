@@ -51,12 +51,23 @@ phrasing/
       psalms-133-esv.md
   NT/
     05-acts/
-      acts-2-42-47-esv.md
+      acts-02-42-47-esv.md
     06-romans/
-      romans-12-9-13-esv.md
+      romans-12-09-13-esv.md
     16-2-timothy/
-      2-timothy-4-1-5-esv.md
+      2-timothy-04-01-05-esv.md
 ```
+
+**Filename convention** — zero-pad numeric segments so files sort in biblical order:
+
+| Book type | Pattern | Example |
+|-----------|---------|---------|
+| Most books (range) | `{book}-{cc}-{vv}-{vv-end}-{translation}.md` | `hebrews-03-12-14-esv.md` |
+| Single verse | `{book}-{cc}-{vv}-{translation}.md` | `galatians-03-28-esv.md` |
+| Whole psalm | `psalms-{ccc}-{translation}.md` | `psalms-023-esv.md`, `psalms-133-esv.md` |
+| Psalm range | `psalms-{ccc}-{vvv}-{vvv-end}-{translation}.md` | `psalms-119-001-008-esv.md` |
+
+Chapters and verses use **two digits**; Psalms use **three digits** (psalms 1–150; verses up to 176).
 
 **Topic collections** (e.g. a sermon series) get a folder under `Topics/` with review and prep documents that link to the individual passage files:
 
