@@ -24,14 +24,14 @@
    |                 to mature manhood,
    |                 to the measure of the stature
    |                     of the fullness of Christ,
-14 |         so that we may
-   |             no longer be children,
-   |                 tossed to and fro
-   |                     by the waves
-   |                 and carried about
-   |                     by every wind of doctrine,
-   |                         by human cunning,
-   |                         by craftiness in deceitful schemes.
+14 |             so that we may
+   |                 no longer be children,
+   |                     tossed to and fro
+   |                         by the waves
+   |                     and carried about
+   |                         by every wind of doctrine,
+   |                             by human cunning,
+   |                             by craftiness in deceitful schemes.
 15 | Rather,
    |             speaking the truth in love,
    |         we are to grow up in every way
